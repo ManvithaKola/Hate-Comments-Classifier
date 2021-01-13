@@ -1,1 +1,1 @@
-# Hate-Comments-Classifier
+## Hate Comments Classifier
